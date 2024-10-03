@@ -1,5 +1,11 @@
 # bits-ui
 
+## 0.21.16
+
+### Patch Changes
+
+-   fix: Changed svelte event handlers in favor of CustomEventHandler ([`554ead8fc40a122d25f1fb7023d75f2bc13e89a6`](https://github.com/huntabyte/bits-ui/commit/554ead8fc40a122d25f1fb7023d75f2bc13e89a6))
+
 ## 0.21.15
 
 ### Patch Changes
